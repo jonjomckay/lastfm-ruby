@@ -47,7 +47,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/liquid/lastfm-ruby}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.2}
-  s.summary = %q{TODO}
+  s.summary = %q{Ruby wrapper for the Last.fm Web Services API.}
   s.test_files = [
     "test/lastfm-ruby_test.rb",
     "test/test_helper.rb"
